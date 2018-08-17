@@ -1,0 +1,13 @@
+c:\users\ryan\source\repos\SmartMoverJSON\SmartMoverJSON\obj\Debug\SmartMoverJSON.csprojAssemblyReference.cache
+c:\users\ryan\source\repos\SmartMoverJSON\SmartMoverJSON\obj\Debug\SmartMoverJSON.Form1.resources
+c:\users\ryan\source\repos\SmartMoverJSON\SmartMoverJSON\obj\Debug\SmartMoverJSON.Properties.Resources.resources
+c:\users\ryan\source\repos\SmartMoverJSON\SmartMoverJSON\obj\Debug\SmartMoverJSON.csproj.GenerateResource.cache
+c:\users\ryan\source\repos\SmartMoverJSON\SmartMoverJSON\obj\Debug\SmartMoverJSON.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\SmartMoverJSON\SmartMoverJSON\bin\Debug\SmartMoverJSON.exe.config
+C:\Users\Ryan\source\repos\SmartMoverJSON\SmartMoverJSON\bin\Debug\SmartMoverJSON.exe
+C:\Users\Ryan\source\repos\SmartMoverJSON\SmartMoverJSON\bin\Debug\SmartMoverJSON.pdb
+C:\Users\Ryan\source\repos\SmartMoverJSON\SmartMoverJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryan\source\repos\SmartMoverJSON\SmartMoverJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryan\source\repos\SmartMoverJSON\SmartMoverJSON\obj\Debug\SmartMoverJSON.csproj.CopyComplete
+C:\Users\Ryan\source\repos\SmartMoverJSON\SmartMoverJSON\obj\Debug\SmartMoverJSON.exe
+C:\Users\Ryan\source\repos\SmartMoverJSON\SmartMoverJSON\obj\Debug\SmartMoverJSON.pdb
